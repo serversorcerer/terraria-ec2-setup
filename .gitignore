@@ -1,0 +1,42 @@
+# OS Files #
+#############
+.DS_Store
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Configuration files that may contain sensitive information #
+#############################################################
+*.config
+
+# Binary and build files #
+##########################
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+
+# Terraria Server Files #
+#########################
+# World files
+*.wld
+*.twld
+
+# Map files
+*.map
+
+# Server log files
+server.log
+
+# User-specific files #
+#######################
+# Example: Visual Studio Code directory
+.vscode/
+
+# Backup files #
+################
+*.bak
